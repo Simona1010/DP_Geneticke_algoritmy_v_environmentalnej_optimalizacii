@@ -48,5 +48,5 @@ Z priečinka so súbormi spustite python GA.py
 
 ## Diplomová práca
 
-Podrobná metodika a výsledky sú dostupné v [diplomovej práci](docs/Diplomova_praca.pdf).
+Podrobná metodika a výsledky sú dostupné v  [diplomovej práci](2026;FHI;DiplomovaPraca.pdf).
 
